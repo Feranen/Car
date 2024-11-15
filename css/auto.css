@@ -62,6 +62,10 @@ header > h1 {
     color: #e1a921;
 }
 
+.bottom > a:visited {
+    color: green;
+}
+
 .bottom > p {
     color: white;
 }
